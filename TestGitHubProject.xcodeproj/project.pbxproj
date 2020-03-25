@@ -13,6 +13,7 @@
 		F20B2C78242BA66400AC08EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20B2C76242BA66400AC08EE /* Main.storyboard */; };
 		F20B2C7A242BA66600AC08EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F20B2C79242BA66600AC08EE /* Assets.xcassets */; };
 		F20B2C7D242BA66600AC08EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20B2C7B242BA66600AC08EE /* LaunchScreen.storyboard */; };
+		F2FBD861242BBDF300ABC66C /* UplodaImageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FBD860242BBDF300ABC66C /* UplodaImageVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F20B2C79242BA66600AC08EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F20B2C7C242BA66600AC08EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F20B2C7E242BA66600AC08EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2FBD860242BBDF300ABC66C /* UplodaImageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UplodaImageVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F20B2C70242BA66400AC08EE /* AppDelegate.swift */,
 				F20B2C72242BA66400AC08EE /* SceneDelegate.swift */,
 				F20B2C74242BA66400AC08EE /* ViewController.swift */,
+				F2FBD860242BBDF300ABC66C /* UplodaImageVC.swift */,
 				F20B2C76242BA66400AC08EE /* Main.storyboard */,
 				F20B2C79242BA66600AC08EE /* Assets.xcassets */,
 				F20B2C7B242BA66600AC08EE /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F20B2C75242BA66400AC08EE /* ViewController.swift in Sources */,
 				F20B2C71242BA66400AC08EE /* AppDelegate.swift in Sources */,
 				F20B2C73242BA66400AC08EE /* SceneDelegate.swift in Sources */,
+				F2FBD861242BBDF300ABC66C /* UplodaImageVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
